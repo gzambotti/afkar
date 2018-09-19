@@ -1,2 +1,3 @@
-# afkar
-AFKAR Web Map
+# Afkar Map (https://gzambotti.github.io/afkar/)
+Harvard University Afkar Map.
+
